@@ -2,3 +2,19 @@
 ---
 
 @import 'jekyll-theme-leap-day';
+
+body {
+    font: unset;
+    color: #000000;
+}
+
+header {   
+    background: #143642; 
+    h1 {
+        color: #000000;
+    }
+}
+
+#banner { 
+    background: #ffd447;
+}
