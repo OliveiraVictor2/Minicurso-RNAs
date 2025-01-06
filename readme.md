@@ -1,4 +1,4 @@
-## Introdução
+# Minicurso sobre Redes Neurais Artificiais
 
 ## Cap1
 
